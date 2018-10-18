@@ -1,2 +1,4 @@
 # hello-world
-Just another goofy repository
+
+I am Australian but live in New York
+New York is home. 
